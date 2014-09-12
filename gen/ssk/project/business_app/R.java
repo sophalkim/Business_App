@@ -1206,9 +1206,12 @@ containing a value of this type.
         public static final int abc_search_view=0x7f030016;
         public static final int abc_simple_decor=0x7f030017;
         public static final int activity_main=0x7f030018;
-        public static final int fragment_main=0x7f030019;
-        public static final int fragment_navigation_drawer=0x7f03001a;
-        public static final int support_simple_spinner_dropdown_item=0x7f03001b;
+        public static final int activity_main2=0x7f030019;
+        public static final int fragment_main=0x7f03001a;
+        public static final int fragment_main2=0x7f03001b;
+        public static final int fragment_navigation_drawer=0x7f03001c;
+        public static final int fragment_navigation_drawer2=0x7f03001d;
+        public static final int support_simple_spinner_dropdown_item=0x7f03001e;
     }
     public static final class menu {
         public static final int global=0x7f0c0000;
@@ -1256,6 +1259,7 @@ containing a value of this type.
          */
         public static final int abc_shareactionprovider_share_with_application=0x7f0a000b;
         public static final int action_example=0x7f0a0013;
+        public static final int action_setting=0x7f0a0015;
         public static final int action_settings=0x7f0a0014;
         public static final int app_name=0x7f0a000d;
         public static final int navigation_drawer_close=0x7f0a0012;
